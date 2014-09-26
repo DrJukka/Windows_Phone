@@ -1,0 +1,6 @@
+C:\WP_Code\App2App\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\Bin\Debug\NokiaPlacesPhoneDll.dll
+C:\WP_Code\App2App\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\Bin\Debug\NokiaPlacesPhoneDll.pdb
+C:\WP_Code\App2App\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\Bin\Debug\Newtonsoft.Json.dll
+C:\WP_Code\App2App\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\obj\Debug\NokiaPlacesPhoneDll.csprojResolveAssemblyReference.cache
+C:\WP_Code\App2App\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\obj\Debug\NokiaPlacesPhoneDll.dll
+C:\WP_Code\App2App\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\NokiaPlacesPhoneDll\obj\Debug\NokiaPlacesPhoneDll.pdb
